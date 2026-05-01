@@ -37,8 +37,8 @@ This dashboard helps businesses understand product performance, profitability tr
 * Excel cleaned dataset
 * Power BI dashboard (.pbix)
 * Dashboard screenshot
-
+https://drive.google.com/file/d/1VYSAfJ7h7siIIBqUDSwa72QkNwurFKmO/view?usp=drive_link
 
 [Superstore_Cleaned.xlsx](https://github.com/user-attachments/files/27249821/Superstore_Cleaned.xlsx)
-Power BI Dashboard (.pbix file): https://drive.google.com/file/d/1VCEmMCDGCmmN5Eq_nROwguzoqyFmr-Jk/view?usp=drive_link
+Power BI Dashboard (.pbix file): (https://drive.google.com/file/d/1VYSAfJ7h7siIIBqUDSwa72QkNwurFKmO/view?usp=drive_link)
 <img width="757" height="440" alt="Superstore dashboard" src="https://github.com/user-attachments/assets/a96e3127-4b5e-4c13-a74e-7f321af9af2b" />
